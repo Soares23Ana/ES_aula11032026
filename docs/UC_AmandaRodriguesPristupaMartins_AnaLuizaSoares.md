@@ -32,6 +32,7 @@ Permitir que o usuário acesse o sistema.
 
 ### RN Relacionadas
 - RN06
+<img width="560" height="299" alt="image" src="https://github.com/user-attachments/assets/1c90a815-f456-4f89-b7ef-b50aa450a3f6" />
 
 --- 
 ## UC02 - Cadastrar Novo Aluno
@@ -66,6 +67,7 @@ RNF04 (Integridade de Dados)
 
 ### RN Relacionadas
 RN06
+<img width="389" height="422" alt="image" src="https://github.com/user-attachments/assets/3f3da5e1-cc91-4672-8e15-7ec82a65d036" />
 
 ---
 ## UC03 — Criar Novo Plano de Academia
@@ -99,6 +101,7 @@ RNF05 (Escalabilidade)
 
 ### RN Relacionadas
 RN06
+<img width="430" height="367" alt="image" src="https://github.com/user-attachments/assets/a6e55ca4-3cec-42a5-a62d-28f545d6ae24" />
 
 ---
 ## UC04 — Editar Plano Existente
@@ -133,6 +136,7 @@ RNF02 (Disponibilidade)
 
 ### RN Relacionadas
 RN06
+<img width="342" height="451" alt="image" src="https://github.com/user-attachments/assets/b1d61fb7-869d-44a1-a2ce-eefff8b6d630" />
 
 ---
 ## UC05 — Registrar Pagamento Presencial
@@ -167,6 +171,7 @@ RNF03 (Tempo de Resposta)
 
 ### RN Relacionadas
 RN04, RN06, RN07
+<img width="488" height="367" alt="image" src="https://github.com/user-attachments/assets/7a65acbf-9047-4618-a666-43ac73f61280" />
 
 ---
 ## UC06 — Gerar Boleto para Pagamento Online
@@ -200,6 +205,7 @@ RNF06 (Interoperabilidade)
 
 ## RN Relacionadas
 RN06
+<img width="367" height="367" alt="image" src="https://github.com/user-attachments/assets/a71d2979-769a-4f1c-9411-624c9eb4381c" />
 
 ---
 ## UC07 — Verificar Regularidade do Aluno (Automático)
@@ -233,6 +239,7 @@ RNF01 (Confiabilidade)
 
 ### RN Relacionadas
 RN01, RN07
+<img width="422" height="405" alt="image" src="https://github.com/user-attachments/assets/c19dd072-a69b-400e-b5aa-8f6492c6e337" />
 
 ---
 ## UC08 — Validar Acesso na Catraca
@@ -268,6 +275,7 @@ RNF07 (Desempenho: < 1s)
 
 ### RN Relacionadas
 RN01
+<img width="353" height="422" alt="image" src="https://github.com/user-attachments/assets/d239fff6-bed8-4be4-a0b0-0d29c8bec645" />
 
 ---
 ## UC09 — Consultar Grade de Aulas
@@ -300,6 +308,7 @@ RNF08 (Usabilidade)
 
 ### RN Relacionadas
 Nenhuma
+<img width="440" height="374" alt="image" src="https://github.com/user-attachments/assets/30157622-249d-4962-85fb-6a3aa21513dc" />
 
 ---
 ### UC10 — Agendar Aula Coletiva
@@ -333,6 +342,7 @@ RNF04 (Consistência)
 
 ### RN Relacionadas
 RN02
+<img width="395" height="367" alt="image" src="https://github.com/user-attachments/assets/52ca880c-f10f-4036-88bf-6517137c4a89" />
 
 ---
 ## UC11 — Gerar Relatório de Alunos Ativos
@@ -367,6 +377,7 @@ RNF10 (Geração de relatórios)
 
 ### RN Relacionadas
 RN06   
+<img width="456" height="312" alt="image" src="https://github.com/user-attachments/assets/3eeb23bf-941d-4599-81cd-24478b497f08" />
 
 ---
 ## UC12 — Cancelar Reserva de Aula
@@ -400,6 +411,7 @@ RNF08 (Usabilidade)
 
 ### RN Relacionadas
 RN03
+<img width="406" height="312" alt="image" src="https://github.com/user-attachments/assets/00932be4-0e50-4739-9c76-0a58467f5998" />
 
 ---
 
@@ -435,7 +447,8 @@ RNF02 (Disponibilidade)
 
 ### RN Relacionadas
 RN06
-  
+ <img width="292" height="451" alt="image" src="https://github.com/user-attachments/assets/a51adc8d-14e8-473f-a44f-266fa90f989a" />
+
 ---
 
 ## UC14 — Registrar Avaliação Física
@@ -470,6 +483,7 @@ RNF04 (Integridade)
 
 ### RN Relacionadas
 RN05, RN06
+<img width="357" height="367" alt="image" src="https://github.com/user-attachments/assets/81e68027-c2a6-4754-8b87-124bd011a754" />
 
 ---
 
@@ -504,6 +518,7 @@ RNF09 (Armazenamento)
 
 ### RN Relacionadas
 RN06
+<img width="350" height="367" alt="image" src="https://github.com/user-attachments/assets/4b18cc6d-5a8f-4a73-84ce-eef99770e37e" />
 
 ---
 
@@ -538,6 +553,7 @@ RNF Relacionados
 
 ### RN Relacionadas
 RN06
+<img width="264" height="274" alt="image" src="https://github.com/user-attachments/assets/ac7bd260-6300-4a06-a056-a48f6e2d7042" />
 
 ---
 
@@ -572,6 +588,7 @@ RNF10 (Geração de relatórios)
 
 ### RN Relacionadas
 RN06
+<img width="251" height="248" alt="image" src="https://github.com/user-attachments/assets/6d669fae-0a54-4453-bb91-be91bd0dc888" />
 
 ---
 
@@ -606,6 +623,7 @@ RNF11 (Confiabilidade de entrega)
 
 ### RN Relacionadas
 Nenhuma
+<img width="220" height="219" alt="image" src="https://github.com/user-attachments/assets/cca5f9fb-7536-4648-8ca7-687f16801410" />
 
 ---
 
@@ -639,6 +657,7 @@ RNF11 (Confiabilidade)
 
 ### RN Relacionadas
 Nenhuma
+<img width="394" height="312" alt="image" src="https://github.com/user-attachments/assets/73f60972-2ee4-4d35-b546-1802db5017e3" />
 
 ---
 
@@ -673,6 +692,7 @@ RNF11 (Confiabilidade)
 
 ### RN Relacionadas
 Nenhuma
+<img width="244" height="248" alt="image" src="https://github.com/user-attachments/assets/9bfd401b-7bdf-486f-9bca-7ca60ba469e4" />
 
 ---
 
@@ -707,3 +727,4 @@ RNF10 (Relatórios)
 
 ### RN Relacionadas
 RN01, RN06
+<img width="236" height="248" alt="image" src="https://github.com/user-attachments/assets/89ef556d-70c3-49a0-921b-f8c219b34661" />
