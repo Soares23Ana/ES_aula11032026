@@ -728,3 +728,6 @@ RNF10 (Relatórios)
 ### RN Relacionadas
 RN01, RN06
 <img width="236" height="248" alt="image" src="https://github.com/user-attachments/assets/89ef556d-70c3-49a0-921b-f8c219b34661" />
+
+<img width="463" height="1014" alt="image" src="https://github.com/user-attachments/assets/f871fbc2-04f1-4a4f-b7f0-15b283a09b4f" />
+
